@@ -1,1 +1,8 @@
-minio/minio:latest
+redis/redis:6.2.7
+java
+tomcat
+maven
+nextcloud
+jenkins
+zookeeper
+erlang
