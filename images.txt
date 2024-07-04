@@ -1,8 +1,3 @@
 redis/redis:6.2.7
 java/java:17
 tomcat/tomcat:9.0
-maven
-nextcloud
-jenkins
-zookeeper
-erlang
