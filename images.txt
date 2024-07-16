@@ -1,1 +1,2 @@
 gitlab/gitlab-ce:latest
+redis/redis:6.2.7
