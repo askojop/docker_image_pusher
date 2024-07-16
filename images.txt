@@ -1,1 +1,2 @@
 gitlab/gitlab-ce:latest
+xxl-job/xxl-job:2.4.0
