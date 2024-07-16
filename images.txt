@@ -1,2 +1,1 @@
-nacos/nacos-server
-xuxueli/xxl-job-admin:2.4.0
+gitlab/gitlab-ce:latest
